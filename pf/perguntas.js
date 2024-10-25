@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Astronomia',
-    'O que é uma função?',
-    'Qual planeta tem anéis?'
+    'Qual planeta tem anéis?',
+    'Saturno'
 )
 
 criaCartao(
